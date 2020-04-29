@@ -14,7 +14,7 @@ def second_challenge
         :age => "15"
       },
       :hero_friends => [
-        :name => 
+        
         ]
       }, 
     :capulet => {
