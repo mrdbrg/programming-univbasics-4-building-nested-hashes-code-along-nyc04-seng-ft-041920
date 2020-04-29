@@ -10,7 +10,7 @@ def second_challenge
         :age => "54"
       },
       :hero => {
-        
+        :name => 
       },
       :hero_friends => []
       }, 
